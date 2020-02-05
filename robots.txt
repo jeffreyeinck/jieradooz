@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://anahxoweec.woodle.io/sitemap.xml
